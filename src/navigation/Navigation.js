@@ -1,0 +1,11 @@
+import React from "react";
+
+const Navigation = () => {
+    return (
+        <View>
+            <Text>Navigation</Text>
+        </View>
+    );
+};
+
+export default Navigation;
